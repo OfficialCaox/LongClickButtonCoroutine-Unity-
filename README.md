@@ -8,5 +8,6 @@ Unity Button에
 +PointerUp 추가
 
 각 
-PointerDown에 OnPointerDown()
-PointerUp에 OnPointerUp() 
+PointerDown에 OnPointerDown() 추가
+
+PointerUp에 OnPointerUp() 추가
